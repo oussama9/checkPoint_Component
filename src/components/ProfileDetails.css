@@ -1,0 +1,30 @@
+.container{
+    margin-top: 70px;
+    background: white;
+    height: 300px;
+    text-align: center;
+}
+
+.container h3,h4,p{
+    margin: 0;
+    padding: 0
+}
+
+.container h3{
+    color: #2f2d2f;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.container h4{
+    color: #8e00b9;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+.container p{
+    margin: 1rem;
+    color: #2f2d2f;
+    font-size: 1rem;
+    text-align: justify;
+}
